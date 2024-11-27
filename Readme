@@ -27,3 +27,8 @@ Project 5:
 This project involves an ultrasonic sensor, a buzzer and 3 LEDs. This setup is an imitation of a car sensor where if an object is approaching closer to it, the buzzer activates and the LEDs change color according to the distance from the sensor.
 This is a link to Google Drive for the demonstration:
 https://drive.google.com/file/d/1sBmi_GElTIER8dWzpHhAXYpH8jdZsT_r/view?usp=drive_link
+
+Project 6:
+This project involves programming a joystick. There are 4 LEDs that indicate the position of the joystick in all 360 degrees position. Also present is a PLC for Joystick to function.
+This is a link to Google Drive for the demonstration:
+https://drive.google.com/file/d/1U8K_ewZ03elqsnC9tlSavaB4tP2y8uW6/view?usp=drive_link
