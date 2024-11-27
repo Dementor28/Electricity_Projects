@@ -1,29 +1,4 @@
 #!/usr/bin/python3
-
-# Original Author: M. Heidenreich
-# Adapted by: Abdullah
-"""
-    Program: Button-Operated Servo Motor (servo.py)
-    Author:  M. Heidenreich, (c) 2020
-
-    Description:
-    
-    This code is provided in support of the following YouTube tutorial:
-    https://youtu.be/3tlE3fpryF0
-
-    This example demonstrates how to implement a simple software-based button
-    blocking/priority technique with Raspberry Pi GPIO and Python.
-    The concept is demonstrated with a servo motor but can be applied
-    in other settings as well. 
-
-    THIS SOFTWARE AND LINKED VIDEO TOTORIAL ARE PROVIDED "AS IS" AND THE
-    AUTHOR DISCLAIMS ALL WARRANTIES INCLUDING ALL IMPLIED WARRANTIES OF
-    MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
-    ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
-    WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
-    ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
-    OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-"""
 # To enable server deamon use sudo systemctl start pigpiod
 
 from signal import signal, SIGTERM, SIGHUP, pause
