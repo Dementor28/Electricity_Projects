@@ -22,3 +22,8 @@ Project 4:
 This project involves a servo where its arm can rotate to a certain degrees specified in the code. A bulb is ussed to indicate its maximum (fully lit) and minimum (dimly lit) rotation. Rotation happens with two buttons.
 This is a link to Google Drive for the demonstration:
 https://drive.google.com/file/d/1oOb6iFm1Kn5lmJ9xsNcCmCQd3l6ahtAW/view?usp=drive_link
+
+Project 5:
+This project involves an ultrasonic sensor, a buzzer and 3 LEDs. This setup is an imitation of a car sensor where if an object is approaching closer to it, the buzzer activates and the LEDs change color according to the distance from the sensor.
+This is a link to Google Drive for the demonstration:
+https://drive.google.com/file/d/1sBmi_GElTIER8dWzpHhAXYpH8jdZsT_r/view?usp=drive_link
