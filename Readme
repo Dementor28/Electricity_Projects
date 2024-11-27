@@ -17,3 +17,8 @@ Project 3:
 This project involves 3 LEDs that when turned on follow a pattern and reverses the pattern when it reaches the last LED.
 This is a link to Google Drive for the demonstration:
 https://drive.google.com/file/d/1Cq_aW0nBXmssnj4khr0jmdwBynTMij14/view?usp=drive_link
+
+Project 4:
+This project involves a servo where its arm can rotate to a certain degrees specified in the code. A bulb is ussed to indicate its maximum (fully lit) and minimum (dimly lit) rotation. Rotation happens with two buttons.
+This is a link to Google Drive for the demonstration:
+https://drive.google.com/file/d/1oOb6iFm1Kn5lmJ9xsNcCmCQd3l6ahtAW/view?usp=drive_link
